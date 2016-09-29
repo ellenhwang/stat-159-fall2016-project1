@@ -1,4 +1,4 @@
-![](../../images/stat159-logo.png)
+![](../images/stat159-logo.png)
 
 ## ABSTRACT:
 
