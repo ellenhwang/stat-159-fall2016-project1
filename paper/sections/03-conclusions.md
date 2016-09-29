@@ -1,1 +1,3 @@
-Sentence 4
+## Conlusion
+
+This report has given an overview of the different types of tools to output projects in readable formats and make projects more efficient. Not only are these resources useful, they are also free for everyone to use. To add, these tools are the basic steps of having reproducible work for a greater public to understand and use. Although these tools can be difficult to learn and apply at first, the resources available and the benefits of using these tools on projects can save lots of time and organizational struggles in the future. 
