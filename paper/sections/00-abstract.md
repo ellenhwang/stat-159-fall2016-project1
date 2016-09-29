@@ -1,4 +1,4 @@
-![](/Users/ellenhwng/Documents/Stat_159/projects/stat-159-fall2016-project1/images/stat159-logo.png)
+![](../../images/stat159-logo.png)
 
 ## ABSTRACT:
 
